@@ -1,4 +1,4 @@
-<h1>Hey, my name is Asuka Mengel :)</h1>
+<h1>Hey, my name is Asuka Mengel</h1>
 
 
 
